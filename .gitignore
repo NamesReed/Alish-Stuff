@@ -1,0 +1,14 @@
+# ignore kicad backup files
+*-backups
+
+# ignore all kicad cache files
+*fp-info-cache
+
+# ignore rhino backup files
+*.3dmbak
+
+# ignore rhino lock files
+*.3dm.rhl
+
+# ignore kicad local settings files
+*.kicad_prl
