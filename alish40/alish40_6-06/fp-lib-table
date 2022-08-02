@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "alish")(type "KiCad")(uri "${KIPRJMOD}/alish.pretty")(options "")(descr ""))
+  (lib (name "MWMX_art")(type "KiCad")(uri "//wsl.localhost/Ubuntu-20.04/home/kyle/git-repos/mw_projects/tools/kicad/libraries/MW_Collection/MWMX_art.pretty")(options "")(descr ""))
+)
